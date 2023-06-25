@@ -1,5 +1,5 @@
 {
-    "name": "Road crossing",
+    "name": "Self Driven Car game",
     "description": "",
     "dependencies": {
         "device": "*",
